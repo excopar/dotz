@@ -32,6 +32,7 @@
   <details>
   	<summary>Themes</summary>
   	<a href="https://github.com/catppuccin/gtk">Catppuccin GTK</a><br>
+    <a href="https://packagecontrol.io/packages/DarkDonut%20Color%20Schemes">Dark Donut Color Schemes</a><br>
   </details>
   <details>
   	<summary>Fonts</summary>
