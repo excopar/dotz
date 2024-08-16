@@ -1,5 +1,5 @@
 
-# dotz
+# 🟪 dotz
 ## My archive config system. 
 
 > [!CAUTION]
@@ -8,7 +8,7 @@
   
  <img src="20241.png">
 <details>
-  <summary> 20241 Configurations</summary>
+  <summary> 🟪 20241 Configurations</summary>
   <details>
   	<summary>Gnome Extensions</summary>
   	<a href="https://extensions.gnome.org/extension/5446/quick-settings-tweaker/">[QSTweak] Quick Setting Tweaker</a><br>
